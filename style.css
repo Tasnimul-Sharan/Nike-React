@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:ital@1&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: #FA804C;
+    font-size: 80px;
+    font-family:fantasy, Arial, Helvetica, sans-serif;
+}
+span{
+    color: #363958;
+}
+h2{
+    color: #363958;
+}
+.price{
+  color: #FA804C;
+
+}
+.card-title{
+    color: #363958;
+    font-size: 24px;
+    font-weight: 700;
+}
+p{
+    color: dimgray;
+}
